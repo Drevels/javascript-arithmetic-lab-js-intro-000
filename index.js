@@ -1,3 +1,1 @@
-function add5(){
-  number += 5
-}
+add(1+80)
