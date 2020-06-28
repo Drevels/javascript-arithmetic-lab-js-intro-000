@@ -1,1 +1,2 @@
-add() 4+2
+function() {
+  expect(add).toExist
