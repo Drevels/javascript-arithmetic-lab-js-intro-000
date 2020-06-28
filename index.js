@@ -1,1 +1,1 @@
-add('number'+'number')
+add(number + number)
