@@ -1,3 +1,3 @@
-function inc(n){
-  return n += 1;
+function add(a,b){
+  return a + b;
 }
