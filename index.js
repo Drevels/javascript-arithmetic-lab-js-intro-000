@@ -1,1 +1,2 @@
-add(12, 31)
+function add(12, 31){}
+
