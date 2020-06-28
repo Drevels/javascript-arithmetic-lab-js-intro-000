@@ -1,3 +1,3 @@
-function() {
-  expect(add).toExist
+function inc(n){
+  return n += 1;
 }
