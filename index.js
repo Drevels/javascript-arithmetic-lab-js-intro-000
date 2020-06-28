@@ -1,1 +1,3 @@
- add(1 + 81)
+function add5(){
+  number += 5
+}
